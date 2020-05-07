@@ -24,7 +24,7 @@
 ###  Contributions
 Both of us worked closely to have input on data preparation, augmentation, building the models, tuning, and evaluating.
 
-* Erica Chio (ebc308)
+**Erica Chio (ebc308)** 
   * XML Preprocessing: reading each patient's xml file
   * FasterRCNN
     * Preprocessing data 
@@ -33,7 +33,7 @@ Both of us worked closely to have input on data preparation, augmentation, build
   * Modifying Source Code to be compatible
   * mobilenet_v2 FasterRCNN Model (not included in final write up) 
 
-* Nithu Mathew (njm363)
+**Nithu Mathew (njm363)**
   * CSV Files: creating one file to include every patient's data
   * MaskRCNN
     * Preprocessing data
