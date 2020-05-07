@@ -1,24 +1,25 @@
 # Lung_Nodule_Identification
 
-# Folders
+## Folders
 
-## source_code 
+### source_code 
 * modified torch.vision FasterRNN/MaskRCNN files to be compatible to image size, include train accuracy / validation loss
 
-## deprecated_notebooks
+### deprecated_notebooks
 * old notebooks to document progress of our work
 
-## pickle
+### pickle
 * saving each model's:
   * train loss
   * validation loss
   * train accuracy
   * validation accuracy
 
-## saved_models
+### saved_models
 * saving model weights 
 * saving model 
 
+---
 
 ###  Contributions
 Both of us worked closely to have input on data preparation, augmentation, building the models, tuning, and evaluating.
