@@ -1,4 +1,5 @@
-# Lung_Nodule_Identification
+# Lung Nodule Identification
+Erica Chio (ebc308) and Nithu Mathew (njm363)
 
 ## Folders
 
