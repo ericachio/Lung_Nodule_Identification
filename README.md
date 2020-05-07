@@ -18,7 +18,7 @@ Erica Chio (ebc308) and Nithu Mathew (njm363)
   
 ---
 
-###  Contributions
+##  Contributions
 Both of us worked closely to have input on data preparation, augmentation, building the models, tuning, and evaluating.
 
 **Erica Chio (ebc308)** 
