@@ -15,11 +15,7 @@ Erica Chio (ebc308) and Nithu Mathew (njm363)
   * validation loss
   * train accuracy
   * validation accuracy
-
-### saved_models
-* saving model weights 
-* saving model 
-
+  
 ---
 
 ###  Contributions
