@@ -32,11 +32,18 @@ Both of us worked closely to have input on data preparation, augmentation, build
 | Notebook Name | Backbone      | Model         | Dataset       | Area         |
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | fasterrcnn_resnet50_area>50.ipynb | Resnet 50 | Faster RCNN | COCO | area >= 50 |
-| fasterrcnn_resnet50.ipyn | Resnet 5  | Faster RCNN  | COCO | area >= 100  |
+| fasterrcnn_resnet50.ipynb | Resnet 5  | Faster RCNN  | COCO | area >= 100  |
 | fasterrcnn_imagenet.ipynb | Resnet 50 | Faster RCNN  | imageNET | area >= 100  |
 | final_maskrcnn_resnet50_50area.ipynb | Resnet 50  | MaskRCNN | COCO | area >= 50 |
 | final_maskrcnn_resnet50_100area.ipynb | Resnet 50  | MaskRCNN | COCO | area >= 100  |
 | final_maskrcnn_resnet50_imagenet_100area.ipynb | Resnet 50 | MaskRCNN | imageNET  | area >= 100 |
+
+### large_nodules.csv
+Complete CSV file of every nodule with an area >= 3mm.
+large_nodules_train.csv / large_nodules_validate.csv / large_nodules_test.csv : CSV files to separate train / validate / test
+
+### all_nodules.csv 
+Complete CSV file of every nodule (< 3mm and >= 3mm)
 
 #### source_code 
 * modified torch.vision FasterRNN/MaskRCNN files to be compatible to image size, include train accuracy / validation loss
