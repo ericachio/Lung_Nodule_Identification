@@ -40,7 +40,11 @@ Both of us worked closely to have input on data preparation, augmentation, build
 
 ### large_nodules.csv
 Complete CSV file of every nodule with an area >= 3mm.
-large_nodules_train.csv / large_nodules_validate.csv / large_nodules_test.csv : CSV files to separate train / validate / test
+
+CSV files to separate train / validate / test:
+* large_nodules_train.csv 
+* large_nodules_validate.csv 
+* large_nodules_test.csv 
 
 ### all_nodules.csv 
 Complete CSV file of every nodule (< 3mm and >= 3mm)
@@ -60,5 +64,7 @@ Complete CSV file of every nodule (< 3mm and >= 3mm)
   
  ### Figures
  
+ * Validation Accuracy Curve Plots
+ * Correct / Incorrect Prediction Images
 ---
 
