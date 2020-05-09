@@ -41,7 +41,7 @@ Final Report Write Up
 | final_maskrcnn_resnet50_100area.ipynb | Resnet 50  | Mask R-CNN | COCO | area >= 100  |
 | final_maskrcnn_resnet50_imagenet_100area.ipynb | Resnet 50 | Mask R-CNN | imageNET  | area >= 100 |
 
-### large_nodules.csv
+#### large_nodules.csv
 Complete CSV file of every nodule with an area >= 3mm.
 
 CSV files to separate train / validate / test:
@@ -49,7 +49,7 @@ CSV files to separate train / validate / test:
 * large_nodules_validate.csv 
 * large_nodules_test.csv 
 
-### all_nodules.csv 
+#### all_nodules.csv 
 Complete CSV file of every nodule (< 3mm and >= 3mm)
 
 #### source_code 
