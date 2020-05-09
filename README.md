@@ -25,13 +25,8 @@ Both of us worked closely to have input on data preparation, augmentation, build
   
 ## Content
 
----
----
-
 ### lung_nodule_identification_ebc308_njm363.pdf
 Final Report Write Up
-
----
 
 ### Code Folder
 
@@ -67,10 +62,8 @@ Complete CSV file of every nodule (< 3mm and >= 3mm)
   * validation loss
   * train accuracy
   * validation accuracy
-  
----
 
-### Figures
+### Figures Folder
  
  * Validation Accuracy Curve Plots for each model 
  * Correct / Incorrect Prediction Images for Faster R-CNN (COCO, area > 50) 
