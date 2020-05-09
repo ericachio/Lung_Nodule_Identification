@@ -23,10 +23,10 @@ Both of us worked closely to have input on data preparation, augmentation, build
   * Creating Evaluation Figures (model_comparison.ipynb)
   * VGG16 Faster R-CNN Model (not included in final write up) 
   
---- 
----
-  
 ## Content
+
+---
+---
 
 ### lung_nodule_identification_ebc308_njm363.pdf
 Final Report Write Up
