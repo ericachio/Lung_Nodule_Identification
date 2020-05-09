@@ -6,21 +6,21 @@ Erica Chio (ebc308) and Nithu Mathew (njm363)
 Both of us worked closely to have input on data preparation, augmentation, building the models, tuning, and evaluating.
 
 **Erica Chio (ebc308)** 
-  * XML Preprocessing: reading each patient's xml file
+  * XML Preprocessing: reading each patient's xml file (xml_preprocessing.ipynb)
   * FasterRCNN
     * Preprocessing data 
     * Implementing Model
     * Evaluating Model
-  * Modifying Source Code to be compatible
+  * Modifying Source Code to be compatible (source_code folder)
   * mobilenet_v2 FasterRCNN Model (not included in final write up) 
 
 **Nithu Mathew (njm363)**
-  * CSV Files: creating one file to include every patient's data
+  * CSV Files: creating one file to include every patient's data (csv_preprocessing.ipynb)
   * MaskRCNN
     * Preprocessing data
     * Implementing Model
     * Evaluating Model
-  * Creating Evaluation Figures 
+  * Creating Evaluation Figures (model_comparison.ipynb)
   * VGG16 FasterRCNN Model (not included in final write up) 
   
 --- 
