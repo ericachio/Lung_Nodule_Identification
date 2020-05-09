@@ -24,11 +24,14 @@ Both of us worked closely to have input on data preparation, augmentation, build
   * VGG16 Faster R-CNN Model (not included in final write up) 
   
 --- 
+---
   
 ## Content
 
 ### lung_nodule_identification_ebc308_njm363.pdf
 Final Report Write Up
+
+---
 
 ### Code Folder
 
@@ -65,10 +68,12 @@ Complete CSV file of every nodule (< 3mm and >= 3mm)
   * train accuracy
   * validation accuracy
   
- ### Figures
+---
+
+### Figures
  
  * Validation Accuracy Curve Plots for each model 
  * Correct / Incorrect Prediction Images for Faster R-CNN (COCO, area > 50) 
  * Correct / Incorrect Prediction Images for Mask R-CNN model (COCO, area > 100)
----
+
 
